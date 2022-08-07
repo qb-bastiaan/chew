@@ -1,2 +1,2 @@
 # hello.py
-print('hello Git!')
+print('hello Git!, now this is just a test')
